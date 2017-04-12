@@ -15,3 +15,23 @@ p {
   margin: 0;
   text-align: center;
 }
+
+.actions {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.actions a {
+  background-color: #9DD1F1;
+  border-radius: 3px;
+  color: #004E89;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  display: inline-block;
+  margin: 10px;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
