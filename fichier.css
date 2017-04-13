@@ -19,7 +19,10 @@ p {
   text-align: center;
 }
 
-.coder,
+.coder {
+  text-align: center;
+  margin-top: 10px;  }
+
 .chercher,
 .creer,
 .utile {
