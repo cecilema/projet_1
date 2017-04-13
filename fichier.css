@@ -19,12 +19,9 @@ p {
   text-align: center;
 }
 
-.actions {
+.boutons a {
   text-align: center;
   margin-top: 10px;
-}
-
-.coder, .chercher, .creer, .utile  a {
   color: #ffffff;
   background-color: #0000ff;
   font-family: 'Arial', sans-serif;
