@@ -19,13 +19,12 @@ p {
   text-align: center;
 }
 
-.coder {
-  text-align: center;
-  margin-top: 10px;  }
-
+.coder,
 .chercher,
 .creer,
 .utile {
+  text-align: center;
+  margin-top: 10px;  
   text-align: center;
   margin-top: 10px;
   color: #ffffff;
