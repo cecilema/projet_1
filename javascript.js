@@ -2,7 +2,7 @@ function main()
 { 
  $('.coder_raisons').hide();
  $('.chercher_raisons').hide();
- $('.boutons').fadeIn(1000);
+ $('.boutons').fadeIn(2000);
  $('.coder').on('click', function (){
  $(this).next().slideToggle(600);
  $(this).toggleClass('active');  
