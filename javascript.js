@@ -1,6 +1,5 @@
 function main()
-{
- $('.boutons').fadeIn(2000);
+{ $('.boutons').fadeIn(2000);
  $('coder_raisons').hide();
  $('chercher_raisons').hide();
  $('.coder').on('click', function (){
