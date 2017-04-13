@@ -24,8 +24,6 @@ p {
 .utile {
   text-align: center;
   margin-top: 10px;  
-  text-align: center;
-  margin-top: 10px;
   color: #ffffff;
   background-color: #0000ff;
   font-family: 'Arial', sans-serif;
@@ -35,12 +33,12 @@ p {
   display: inline-block;
   box-sizing: border-box;
   margin: 30px;
-  padding: 8px;
+  padding: 18px;
   text-align: center;
   text-transform: lowercase;
   text-decoration: none;
   float: left;
-  margin: 2px;
+ 
 }
 
 ul {
