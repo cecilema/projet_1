@@ -1,15 +1,18 @@
+*{padding:0;
+  margin:0;}
+
 h1 {
-  color: #004E89;
-  font-family: 'Yantramanav', sans-serif;
-  font-size: 50px;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+  font-size: 25px;
   font-weight: 400;
   margin: 0;
   text-align: center;
 }
 
 p {
-  color: #333;
-  font-family: 'Yantramanav', sans-serif;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
   font-size: 16px;
   font-weight: 100;
   margin: 0;
@@ -26,12 +29,15 @@ p {
   background-color: #0000ff;
   font-family: 'Arial', sans-serif;
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 600;
   border-radius: 10px;
-  display: block;
+  display: inline-block;
   box-sizing: border-box;
   margin: 10px;
-  padding: 3px;
+  padding: 8px;
   text-align: center;
   text-transform: lowercase;
+  text-decoration: none;
+  float: left;
+  margin: 2px;
 }
