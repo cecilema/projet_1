@@ -38,3 +38,12 @@ p {
   float: left;
   margin: 2px;
 }
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.coder_raisons {
+  margin: 1em 0;
+}
