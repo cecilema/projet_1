@@ -8,6 +8,8 @@ function main()
  $('.contenu_raisons').hide();
  $('.mission_raisons').hide();
  $('.duree_raisons').hide();
+ $('.perseverante_raisons').hide();
+ $('.debrouillarde_raisons').hide();
  $('.boutons').fadeIn(5000);
  $('.coder').on('click', function (){
  $(this).next().slideToggle(600);
@@ -48,6 +50,18 @@ function main()
  $(this).next().slideToggle(600);
  $(this).toggleClass('active_simplon');  
  });
+ 
+ 
+ $('.perseverante').on('click', function (){
+ $(this).next().slideToggle(600);
+ $(this).toggleClass('active_qualites');  
+ });
+
+ $('.debrouillarde').on('click', function (){
+ $(this).next().slideToggle(600);
+ $(this).toggleClass('active_qualites');  
+ });
+ 
 }
 
 $(document).ready(main);
