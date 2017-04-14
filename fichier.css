@@ -75,7 +75,9 @@ p {
 }
 
 .perseverante,
-.debrouillarde {
+.debrouillarde,
+.curieuse,
+.rigoureuse {
   text-align: center;
   margin-top: 10px;  
   color: #ffffff;
@@ -109,7 +111,9 @@ ul {
 .mission_raisons,
 .duree_raisons,
 .perseverante_raisons,
-.debrouillarde_raisons {
+.debrouillarde_raisons
+.curieuse_raisons,
+.rigoureuse_raisons {
 margin: 0.5em 0;
 font-family: 'Arial', sans-serif;
 font-weight: 400;
