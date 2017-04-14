@@ -10,6 +10,8 @@ function main()
  $('.duree_raisons').hide();
  $('.perseverante_raisons').hide();
  $('.debrouillarde_raisons').hide();
+  $('.curieuse_raisons').hide();
+  $('.rigoureuse_raisons').hide();
  $('.boutons').fadeIn(5000);
  $('.coder').on('click', function (){
  $(this).next().slideToggle(600);
@@ -58,6 +60,15 @@ function main()
  });
 
  $('.debrouillarde').on('click', function (){
+ $(this).next().slideToggle(600);
+ $(this).toggleClass('active_qualites');  
+ });
+ $('.curieuse').on('click', function (){
+ $(this).next().slideToggle(600);
+ $(this).toggleClass('active_qualites');  
+ });
+ 
+ $('.rigoureuse').on('click', function (){
  $(this).next().slideToggle(600);
  $(this).toggleClass('active_qualites');  
  });
