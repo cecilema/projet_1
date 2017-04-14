@@ -38,8 +38,6 @@ p {
   text-transform: lowercase;
   text-decoration: none;
   float: left;
-
- 
 }
 
 ul {
@@ -48,7 +46,9 @@ ul {
 }
 
 .coder_raisons,
-.chercher_raisons {
+.chercher_raisons,
+.creer_raisons,
+.utile_raisons {
   margin: 0.5em 0;
 }
 
