@@ -49,7 +49,11 @@ ul {
 .chercher_raisons,
 .creer_raisons,
 .utile_raisons {
-  margin: 0.5em 0;
+margin: 0.5em 0;
+font-family: 'Arial', sans-serif;
+font-weight: 600;
+color: #004d99;
+  
 }
 
 .active {
