@@ -14,6 +14,7 @@ h2 {
   font-family: 'Arial', sans-serif;
   font-weight: 100;
   margin: 6px;
+  text-align: left;
 }
 
 p {
@@ -28,7 +29,25 @@ p {
 .coder,
 .chercher,
 .creer,
-.utile,
+.utile {
+  text-align: center;
+  margin-top: 10px;  
+  color: #ffffff;
+  background-color: #0000ff;
+  font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 6px;
+  padding: 8px;
+  text-align: center;
+  text-transform: lowercase;
+  text-decoration: none;
+  float: left;
+}
+
 .pedagogie,
 .contenu,
 .mission,
@@ -36,7 +55,7 @@ p {
   text-align: center;
   margin-top: 10px;  
   color: #ffffff;
-  background-color: #0000ff;
+  background-color: #e60000;
   font-family: 'Arial', sans-serif;
   font-size: 20px;
   font-weight: 600;
@@ -66,12 +85,17 @@ ul {
 .duree_raisons {
 margin: 0.5em 0;
 font-family: 'Arial', sans-serif;
-font-weight: 600;
+font-weight: 400;
 color: #004d99;
   
 }
 
-.active {
+.active_dev {
   background-color: #33ccff;
+  color: #ffffff;
+}
+
+.active_simplon {
+  background-color: #ff8080;
   color: #ffffff;
 }
