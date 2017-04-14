@@ -32,12 +32,13 @@ p {
   border-radius: 10px;
   display: inline-block;
   box-sizing: border-box;
-  margin: 30px;
+  margin: 6px;
   padding: 8px;
   text-align: center;
   text-transform: lowercase;
   text-decoration: none;
   float: left;
+
  
 }
 
