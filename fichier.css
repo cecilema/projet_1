@@ -28,7 +28,11 @@ p {
 .coder,
 .chercher,
 .creer,
-.utile {
+.utile,
+.pedagogie,
+.contenu,
+.mission,
+.duree {
   text-align: center;
   margin-top: 10px;  
   color: #ffffff;
@@ -55,7 +59,11 @@ ul {
 .coder_raisons,
 .chercher_raisons,
 .creer_raisons,
-.utile_raisons {
+.utile_raisons,
+.pedagogie_raisons,
+.contenu_raisons,
+.mission_raisons,
+.duree_raisons {
 margin: 0.5em 0;
 font-family: 'Arial', sans-serif;
 font-weight: 600;
