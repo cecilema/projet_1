@@ -11,42 +11,42 @@ function main()
  $('.boutons').fadeIn(5000);
  $('.coder').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_dev');  
  });
  
  $('.chercher').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_dev');  
  });
  
  $('.creer').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_dev');  
  });
  
  $('.utile').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_dev');  
  });
  
  $('.pedagogie').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_simplon');  
  });
  
  $('.contenu').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_simplon');  
  });
  
  $('.mission').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_simplon');  
  });
  
  $('.duree').on('click', function (){
  $(this).next().slideToggle(600);
- $(this).toggleClass('active');  
+ $(this).toggleClass('active_simplon');  
  });
 }
 
