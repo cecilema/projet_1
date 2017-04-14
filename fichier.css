@@ -4,9 +4,16 @@ h1 {
   color: #004d99;
   font-family: 'Arial', sans-serif;
   font-size: 25px;
-  font-weight: 400;
+  font-weight: 300;
   margin: 10px;
   text-align: center;
+}
+
+h2 {
+  color: #004d99;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  margin: 6px;
 }
 
 p {
