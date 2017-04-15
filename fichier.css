@@ -36,7 +36,9 @@ p,
 .creer,
 .utile {
   text-align: center;
-  margin-top: 10px;  
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
   color: #ffffff;
   background-color: #0000ff;
   font-family: 'Arial', sans-serif;
@@ -45,12 +47,12 @@ p,
   border-radius: 10px;
   display: inline-block;
   box-sizing: border-box;
-  margin: 6px;
   padding: 8px;
   text-align: center;
   text-transform: lowercase;
   text-decoration: none;
   float: left;
+  cursor: pointer;
 }
 
 .pedagogie,
@@ -73,6 +75,7 @@ p,
   text-transform: lowercase;
   text-decoration: none;
   float: left;
+  cursor: pointer;
 }
 
 .perseverante,
@@ -95,6 +98,7 @@ p,
   text-transform: lowercase;
   text-decoration: none;
   float: left;
+  cursor: pointer;
 }
 
 img {
