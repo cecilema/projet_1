@@ -27,7 +27,11 @@ p,
   font-family: 'Arial', sans-serif;
   font-size: 18px;
   font-weight: 200;
-  margin: 0;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
   text-align: center;
   justify-content: center;
 }
@@ -40,6 +44,7 @@ p,
   margin-top: 10px;
   margin-right: 10px;
   margin-left: 10px;
+  margin-bottom: 10px;
   color: #ffffff;
   background-color: #0000ff;
   font-family: 'Arial', sans-serif;
@@ -54,14 +59,19 @@ p,
   text-decoration: none;
   float: left;
   cursor: pointer;
+  position: relative;
 }
+
+.coder a:active { 
+ top: 2px;
+}
+
 
 .pedagogie,
 .contenu,
 .mission,
 .duree {
-  text-align: center;
-  margin-top: 10px;  
+  text-align: center;  
   color: #ffffff;
   background-color: #e60000;
   font-family: 'Arial', sans-serif;
@@ -70,7 +80,10 @@ p,
   border-radius: 10px;
   display: inline-block;
   box-sizing: border-box;
-  margin: 6px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
   padding: 8px;
   text-align: center;
   text-transform: lowercase;
@@ -83,8 +96,7 @@ p,
 .debrouillarde,
 .curieuse,
 .rigoureuse {
-  text-align: center;
-  margin-top: 10px;  
+  text-align: center; 
   color: #ffffff;
   background-color: #73e600;
   font-family: 'Arial', sans-serif;
@@ -93,7 +105,10 @@ p,
   border-radius: 10px;
   display: inline-block;
   box-sizing: border-box;
-  margin: 6px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
   padding: 8px;
   text-align: center;
   text-transform: lowercase;
