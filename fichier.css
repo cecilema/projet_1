@@ -63,8 +63,11 @@ p,
   position: relative;
 }
 
-.coder:active{ 
- top: 4px;
+.coder,
+.chercher,
+.creer, 
+.utile:active{ 
+ top: 8px;
 }
 
 
@@ -93,6 +96,13 @@ p,
   cursor: pointer;
 }
 
+ .pedagogie,
+.contenu,
+.mission,
+.duree:active{ 
+ top: 8px;
+}
+
 .perseverante,
 .debrouillarde,
 .curieuse,
@@ -116,6 +126,13 @@ p,
   text-decoration: none;
   float: left;
   cursor: pointer;
+}
+
+.perseverante,
+.debrouillarde,
+.curieuse,
+.rigoureuse:active{ 
+ top: 8px;
 }
 
 img {
