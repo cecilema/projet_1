@@ -72,7 +72,7 @@ p,
 }
 
 .coder:active, 
-.chercher: active,
+.chercher:active,
 .creer:active, 
 .utile:active { 
  top: 6px;
@@ -102,6 +102,7 @@ p,
   text-decoration: none;
   float: left;
   cursor: pointer;
+  position: relative;
 }
 
 .pedagogie:active,
@@ -134,6 +135,7 @@ p,
   text-decoration: none;
   float: left;
   cursor: pointer;
+  position: relative;
 }
 
 .perseverante:active,
