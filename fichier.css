@@ -37,6 +37,14 @@ p,
   border: 3px solid #000000;
 }
 
+.middle {
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px; 
+}
+  
 .coder,
 .chercher,
 .creer,
@@ -63,11 +71,11 @@ p,
   position: relative;
 }
 
-.coder,
-.chercher,
-.creer, 
-.utile:active{ 
- top: 8px;
+.coder:active, 
+.chercher: active,
+.creer:active, 
+.utile:active { 
+ top: 6px;
 }
 
 
@@ -96,11 +104,11 @@ p,
   cursor: pointer;
 }
 
- .pedagogie,
-.contenu,
-.mission,
-.duree:active{ 
- top: 8px;
+.pedagogie:active,
+.contenu:active,
+.mission:active,
+.duree:active { 
+ top: 6px;
 }
 
 .perseverante,
@@ -128,11 +136,11 @@ p,
   cursor: pointer;
 }
 
-.perseverante,
-.debrouillarde,
-.curieuse,
-.rigoureuse:active{ 
- top: 8px;
+.perseverante:active,
+.debrouillarde:active,
+.curieuse:active,
+.rigoureuse:active { 
+ top: 6px;
 }
 
 img {
@@ -160,10 +168,6 @@ margin: 0.5em 0;
 font-family: 'Arial', sans-serif;
 font-weight: 400;
 color: #004d99;
-}
-
-.boutons { 
-  color: #000000
 }
 
 .active_dev {
