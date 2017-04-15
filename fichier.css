@@ -145,6 +145,10 @@ font-weight: 400;
 color: #004d99;
 }
 
+.boutons { 
+  color: #000000
+}
+
 .active_dev {
   background-color: #33ccff;
   color: #ffffff;
