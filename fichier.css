@@ -62,8 +62,8 @@ p,
   position: relative;
 }
 
-.coder a:active { 
- top: 2px;
+.coder:active{ 
+ top: 4px;
 }
 
 
