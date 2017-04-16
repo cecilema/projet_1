@@ -146,6 +146,7 @@ p,
 img {
     display: block;
     text-align: center;
+    float: center;
 }
 
 ul {
