@@ -70,7 +70,6 @@ p,
   text-align: center;
   text-transform: lowercase;
   text-decoration: none;
-  float: left;
   cursor: pointer;
   position: relative;
 }
@@ -104,7 +103,6 @@ p,
   text-align: center;
   text-transform: lowercase;
   text-decoration: none;
-  float: left;
   cursor: pointer;
   position: relative;
 }
@@ -137,7 +135,6 @@ p,
   text-align: center;
   text-transform: lowercase;
   text-decoration: none;
-  float: left;
   cursor: pointer;
   position: relative;
 }
