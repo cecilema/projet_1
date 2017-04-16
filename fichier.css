@@ -145,8 +145,7 @@ p,
 
 img {
     display: block;
-    text-align: center;
-    float: center;
+    margin: 0 auto;
 }
 
 ul {
