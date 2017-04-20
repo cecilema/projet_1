@@ -37,6 +37,21 @@ p,
   
 }
 
+.apres_entretiens {
+color: #0000ff;
+  font-family: 'Arial', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  margin-right: 60px;
+  margin-left: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  line-height: 180%;
+}
+
 .middle {
   justify-content: center;
   text-align: center;
